@@ -12,6 +12,8 @@ For support inquiries, please create a post in the support-forum channel on disc
 
 https://github.com/Samuels-Development/sd-simonsays/assets/99494967/8106d5ce-970c-4e2f-8d3a-4efe99bb6cdb
 
+(The Minigame does make sound, the video simply isn't capturing my computers sounds)
+
 ## Installation
 
 1. Clone or download this resource.
