@@ -22,7 +22,7 @@ For support inquiries, please create a post in the support-forum channel on disc
    - `repetitions`: Number of sequences the player must correctly repeat to win.
 
 ## Exports 
-Exclusively available on the server side.
+Exclusively available on the client side.
 
  `StartSimonSays`: Initiates the Simon Says game with specified parameters.
 
