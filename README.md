@@ -23,8 +23,8 @@ https://github.com/Samuels-Development/sd-simonsays/assets/99494967/8106d5ce-970
 ## Usage
 
 - `OpenSimonSays(gridSize, repetitions)`
-   - `gridSize`: Size of the game grid (e.g., `4` for a 4x4 grid).
-   - `repetitions`: Number of sequences the player must correctly repeat to win.
+   - `gridSize`: Size of the game grid (e.g., `4` for a 4x4 grid). (3 is the minimum, 7 is the maximum
+   - `repetitions`: Number of sequences the player must correctly repeat to win. (ex. 4)
 
 ## Exports 
 Exclusively available on the client side.
