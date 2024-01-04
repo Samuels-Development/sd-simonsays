@@ -1,0 +1,54 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.game-container {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  transition: opacity 0.5s ease;
+  opacity: 1;
+}
+
+.game-container.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.game-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: repeat(3, 100px);
+  gap: 10px;
+  background-color: #000;
+  padding: 10px;
+}
+
+.game-cell {
+  width: 100px;
+  height: 100px;
+  background-color: #333;
+  transition: background-color 0.3s;
+  cursor: pointer;
+}
+
+.game-cell.red {
+  background-color: #f00;
+}
+
+.game-cell.green {
+  background-color: #0f0;
+}
+
+.settings {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#gridSize {
+  width: 50px;
+}
