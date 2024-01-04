@@ -24,6 +24,12 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
+  document.addEventListener('keydown', (event) => {
+    if (event.key === "Escape" && gameActive) {
+      endGame(false); 
+    }
+  });
+
   function createGrid(size) {
     const gameGrid = document.getElementById('gameGrid');
     gameGrid.innerHTML = '';
