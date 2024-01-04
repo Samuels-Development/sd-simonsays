@@ -8,6 +8,12 @@ For support inquiries, please create a post in the support-forum channel on disc
 ## Preview
 ![FiveM_b2944_GTAProcess_r6PlRoRTOT](https://github.com/Samuels-Development/sd-simonsays/assets/99494967/80686e6a-9ea5-45d4-a53c-50782654b88a)
 
+### Video Preview
+https://github.com/Samuels-Development/sd-simonsays/assets/99494967/8106d5ce-970c-4e2f-8d3a-4efe99bb6cdb
+-- The minigame makes sounds, just isn't captured in the preview video.
+
+
+
 
 ## Installation
 
