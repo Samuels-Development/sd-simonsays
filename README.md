@@ -1,6 +1,6 @@
 # sd-simonsays
 
-This resource introduces a Simon Says minigame to FiveM servers. Players must memorize and repeat a sequence of illuminated tiles, with the sequence increasing in length each round.
+This resource introduces a Simon Says minigame. Players must memorize and repeat a sequence of illuminated tiles, with the sequence increasing in length each round.
 
 Feel free to star the repository and check out my store and discord @ Discord: https://discord.gg/samueldev & Store: https://fivem.samueldev.shop 
 For support inquiries, please create a post in the support-forum channel on discord or create an issue here on Github.
