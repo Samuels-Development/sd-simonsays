@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (event.data.type === "startGame") {
       gameContainer.style.display = 'flex';
       gameContainer.classList.remove('hidden');
-      gridSize = event.data.gridSize;
+      gridSize = Math.max(3, Math.min(event.data.gridSize, 7));
       repetitions = event.data.repetitions;
       createGrid(gridSize);
       resetGame();
